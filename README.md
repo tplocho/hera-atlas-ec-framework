@@ -42,6 +42,13 @@ National Technical University of Athens (NTUA)
 - Email: [tplocho@gmail.com](mailto:tplocho@gmail.com)
 - LinkedIn: [linkedin.com/in/tplocho](https://www.linkedin.com/in/tplocho)
 
+<!--
+Future extension hooks
+- When a preprint, journal article, or project page becomes public, add it here:
+  - Preprint / paper: [Title](https://...)
+- If appropriate, also set the repository homepage to that external publication or project page.
+-->
+
 ## Citation
 Citation metadata is provided in `CITATION.cff`.
 
