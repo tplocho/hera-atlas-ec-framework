@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this repository, please cite the software and check the README for the current preferred project citation."
+title: "HERA-ATLAS EC Framework"
+type: software
+authors:
+  - family-names: "Plochoros"
+    given-names: "Theotokis"
+    affiliation: "National Technical University of Athens"
+    email: "tplocho@gmail.com"
+repository-code: "https://github.com/tplocho/hera-atlas-ec-framework"
+license: "MIT"
+keywords:
+  - "MATLAB"
+  - "plasma physics"
+  - "tokamak"
+  - "fusion energy"
+  - "electron cyclotron"
+  - "ECCD"
+  - "ECRH"

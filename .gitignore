@@ -1,0 +1,11 @@
+*.asv
+*.mat
+*.fig
+*.mlx.autosave
+*.m~
+*.csv
+*.pdf
+.DS_Store
+Thumbs.db
+results/
+output/
