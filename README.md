@@ -9,10 +9,13 @@ The repository contains a two-layer workflow for studying resonance structure an
 - **ATLAS** post-processes generated datasets to evaluate, rank, and visualize actuator-target relationships.
 - **ATLAS_int** provides an interactive configuration path for ATLAS.
 
+![HERA–ATLAS framework](assets/HERA_ATLAS_framework.png)
+
 ## Repository contents
 - `src/HERA.m` — resonance-physics generation layer
 - `src/ATLAS.m` — actuator-target analysis and visualization layer
 - `src/ATLAS_int.m` — interactive configuration layer
+- `assets/HERA_ATLAS_framework.png` — framework diagram
 - `docs/framework-overview.md` — framework structure and workflow summary
 - `docs/repository-scope.md` — repository boundaries and included material
 - `docs/usage-and-data.md` — notes on execution flow and generated datasets
@@ -35,8 +38,9 @@ This repository contains the code and supporting documentation for the HERA–AT
 Theotokis Plochoros  
 National Technical University of Athens (NTUA)
 
-## Contact
-`tplocho@gmail.com`
+## Links
+- Email: [tplocho@gmail.com](mailto:tplocho@gmail.com)
+- LinkedIn: [linkedin.com/in/tplocho](https://www.linkedin.com/in/tplocho)
 
 ## Citation
 Citation metadata is provided in `CITATION.cff`.
